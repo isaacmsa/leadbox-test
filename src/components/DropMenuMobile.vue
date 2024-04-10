@@ -1,5 +1,5 @@
 <template>
-  <div class="md:hidden absolute top-20 left-0 right-5">
+  <div class="md:hidden absolute top-14 left-0 right-5 z-10 -mt-1.5">
     <div class="bg-white shadow-xl">
       <div class="h-56 pl-4 mt-8">
         <div class="w-72 pl-12">

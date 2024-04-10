@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="flex justify-between items-center h-20 pl-8 md:pl-16 lg:pl-14 pr-6 md:pr-16 bg-white shadow-lg static"
+    class="flex justify-between items-center h-20 pl-8 md:pl-16 lg:pl-14 pr-6 md:pr-16 bg-white shadow-lg fixed z-50 left-0 right-0"
   >
     <figure>
       <img
