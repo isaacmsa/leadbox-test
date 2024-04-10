@@ -1,7 +1,33 @@
-# Vue 3 + Vite
+# Leadbox home page test
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is created with Vue 3, [Tailwind CSS](https://tailwindcss.com) 3 and Vite. This project was developed for educational and testing purposes.
 
-## Recommended IDE Setup
+---
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+## Requirements
+
+- Node 20 +
+- Vite 5 +
+- Npm installer or yarn (Node.js ver. 20+)
+
+## Installation
+
+1. #### Clone the repository from GitHub and open the directory:
+
+```
+git clone url repository
+```
+
+2. #### cd into your project directory
+
+3. #### install npm packages
+
+```
+npm install
+npm run dev
+
+Or with yarn
+
+yarn install
+yarn dev
+```
